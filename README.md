@@ -44,3 +44,8 @@ The Power BI dashboard provides a comprehensive operational view that helps Papo
 - Track insurance vs direct collections to manage cash flow.  
 - Monitor doctor performance and patient satisfaction for service improvement.  
 Leverage these insights to prioritize operational improvements and strategic planning.
+
+## Dashbord Screenshot
+
+<img width="1394" height="885" alt="Screenshot 2025-09-15 192708" src="https://github.com/user-attachments/assets/04d7fdf1-446c-4358-9550-5c776d69419b" />
+
