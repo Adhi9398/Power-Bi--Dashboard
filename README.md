@@ -3,4 +3,4 @@
 
 The goal of the project is to help hospital management gain actionable insights into patient flow, financial performance, resource utilization, and service quality to support data-driven decision-making.
 ## Data sets
-- <a href="https://github.com/Adhi9398/Power-Bi--Dashboard/blob/main/Papollo%20power%20bi%20project.pdf">Dataset</a>
+- <a href="https://github.com/Adhi9398/Power-Bi--Dashboard/blob/main/Papollo-Healtcare-Dataset.xlsx">Dataset</a>
