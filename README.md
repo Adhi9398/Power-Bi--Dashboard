@@ -19,5 +19,28 @@ The goal of the project is to help hospital management gain actionable insights 
 ## Exported snapshot
 - <a href="https://github.com/Adhi9398/Power-Bi--Dashboard/blob/main/Papollo%20power%20bi%20project.pdf">Exported snapshot</a>
 ## Papollo LeadsFlow Dashboard
-- <a herf="https://github.com/Adhi9398/Power-Bi--Dashboard/blob/main/Papollo.pbix">Papollo LeadsFlow Dashboard</a>
+- <a href="https://github.com/Adhi9398/Power-Bi--Dashboard/blob/main/Papollo.pbix">Papollo LeadsFlow Dashboard</a>
 
+## How to View / Run
+1. **Open in Power BI Desktop**  
+   - Download `reports/Papollo_LeadsFlow_Dashboard.pbix` and open with Power BI Desktop (Windows).  
+2. **If you only have CSV**  
+   - Open Power BI Desktop → Get Data → CSV → Load `data/papollo_hospital_data.csv`.  
+   - Recreate visuals according to the report pages or import the pbix if available.  
+3. **Publish to Power BI Service** (if you have an account)  
+   - Publish from Power BI Desktop to your workspace, then share dashboard links or embed in apps.
+
+## Key Insights (summary)
+- **Revenue:** Total billing is strong (e.g., ₹190.43M); diagnostics like CT, MRI, and X-Ray are high revenue contributors.  
+- **Insurance:** A notable portion of billing comes from insurance — important for receivables tracking.  
+- **Bed Utilization:** Usage patterns differ across Private/General/ICU; helps with capacity planning.  
+- **Diagnosis Trends:** Viral infections and flu are among top diagnosis categories — suggests seasonal resource planning for labs/medicine.  
+- **Doctor Performance:** Certain doctors show high feedback volume — useful for service-quality recognition and training.
+
+## Conclusion
+The Power BI dashboard provides a comprehensive operational view that helps Papollo Hospitals:
+- Optimize bed allocation and resource planning.  
+- Focus on high-margin diagnostic services.  
+- Track insurance vs direct collections to manage cash flow.  
+- Monitor doctor performance and patient satisfaction for service improvement.  
+Leverage these insights to prioritize operational improvements and strategic planning.
