@@ -29,6 +29,11 @@ The goal of the project is to help hospital management gain actionable insights 
    - Recreate visuals according to the report pages or import the pbix if available.  
 3. **Publish to Power BI Service** (if you have an account)  
    - Publish from Power BI Desktop to your workspace, then share dashboard links or embed in apps.
+  
+ ## Dashbord Screenshot
+
+<img width="1394" height="885" alt="Screenshot 2025-09-15 192708" src="https://github.com/user-attachments/assets/04d7fdf1-446c-4358-9550-5c776d69419b" />
+
 
 ## Key Insights (summary)
 - **Revenue:** Total billing is strong (e.g., ₹190.43M); diagnostics like CT, MRI, and X-Ray are high revenue contributors.  
@@ -45,7 +50,4 @@ The Power BI dashboard provides a comprehensive operational view that helps Papo
 - Monitor doctor performance and patient satisfaction for service improvement.  
 Leverage these insights to prioritize operational improvements and strategic planning.
 
-## Dashbord Screenshot
-
-<img width="1394" height="885" alt="Screenshot 2025-09-15 192708" src="https://github.com/user-attachments/assets/04d7fdf1-446c-4358-9550-5c776d69419b" />
 
